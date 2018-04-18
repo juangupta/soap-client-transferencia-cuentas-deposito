@@ -1,0 +1,6 @@
+dependencies {}
+apply plugin: 'java'
+jar {
+	baseName = 'soap-client-transferencia-cuentas-deposito'
+	version =  '0.0.1'
+}
